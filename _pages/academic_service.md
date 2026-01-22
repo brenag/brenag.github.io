@@ -27,6 +27,7 @@ I have served as a peer reviewer for the following journals and conferences:
 - **IEEE Transactions on Fuzzy Systems**
 - **IEEE Transactions on Cybernetics**
 - **Fuzzy Sets and Systems** 
+- **Journal of Control, Automation and Electrical Systems (JCAE)**
 - **American Control Conference (ACC)**
 - **IFAC World Congress**
 - **IFAC Joint Conference on Computers, Cognition and Communication (J3C)**
