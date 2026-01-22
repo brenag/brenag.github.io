@@ -9,9 +9,9 @@ last_name: Brenag
 contact_note: >
     Feel free to reach out to me via emanuelbrenag@ufmg.br 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Emanuel Couto Brenag, PhD Candidate at UFMG
 footer_text: 
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: automatic control, networked control systems, applied mathematics # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🛰️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
