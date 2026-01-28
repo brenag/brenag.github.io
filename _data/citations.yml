@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-26'
+  last_updated: '2026-01-28'
 papers:
   9KSz3NwAAAAJ:9yKSN-GCB0IC:
     citations: 4
@@ -13,18 +13,38 @@ papers:
     citations: 0
     title: "An\xE1lise de t\xE9cnicas para reconstru\xE7\xE3o da atitude de sat\xE9lite baseada em dados coletados em \xF3rbita"
     year: '2023'
+  9KSz3NwAAAAJ:W7OEmFMy1HYC:
+    citations: 0
+    title: Educational Attitude Determination and Control System Prototype for CubeSats
+    year: '2021'
+  9KSz3NwAAAAJ:WF5omc3nYNoC:
+    citations: 0
+    title: AlfaCrux CubeSat Magnetic Dipole Determination and Attitude Motion Estimation Using Magnetometer Measurements Only
+    year: '2023'
   9KSz3NwAAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: 'Input saturated control of time-delay systems: a data-driven approach'
     year: '2026'
+  9KSz3NwAAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: Analysis of Sun-acquisition Magnetic Attitude Control for Nanosatellite Using a Hardware-in-the-loop Satellite Simulator
+    year: '2022'
   9KSz3NwAAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: "Exact Noncommutative Two\u2010Dimensional Hydrogen Atom"
     year: '2021'
+  9KSz3NwAAAAJ:eQOLeE2rZwMC:
+    citations: 0
+    title: Magnetic parameters estimation and Attitude Motion reconstruction using in-flight magnetometer measurements of the AlfaCrux CubeSat
+    year: '2022'
   9KSz3NwAAAAJ:u5HHmVD_uO8C:
     citations: 8
     title: The AlfaCrux CubeSat mission description and early results
     year: '2022'
+  9KSz3NwAAAAJ:ufrVoPGSRksC:
+    citations: 0
+    title: Controle baseado em dados para sistemas lineares sujeitos a retardo no tempo na entrada
+    year: '2025'
   9KSz3NwAAAAJ:zYLM7Y9cAGgC:
     citations: 0
     title: Data-driven static output-feedback control for time-delay systems
