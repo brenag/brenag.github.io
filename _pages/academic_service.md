@@ -25,6 +25,7 @@ Representation and analysis of linear dynamical systems in the time and frequenc
 I have served as a peer reviewer for the following journals and conferences:  
 
 - **IEEE Transactions on Fuzzy Systems**
+- **IEEE Transactions on Automatic Control**
 - **IEEE Transactions on Cybernetics**
 - **Fuzzy Sets and Systems** 
 - **Journal of Control, Automation and Electrical Systems (JCAE)**
