@@ -17,7 +17,7 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography -1 --query @article %}
+{% bibliography  --query @article %}
 
 </div>
 
@@ -25,6 +25,6 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography -1 --query @inproceedings %}
+{% bibliography  --query @inproceedings %}
 
 </div>
