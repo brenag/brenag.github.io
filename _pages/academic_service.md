@@ -22,7 +22,7 @@ Representation and analysis of linear dynamical systems in the time and frequenc
 
 ## 📝 Editorial Service
 
-I have served as a peer reviewer for the following journals and conferences:  
+I have served as an *ad-hoc* peer reviewer for the following journals and conferences:  
 
 - **IEEE Transactions on Fuzzy Systems**
 - **IEEE Transactions on Automatic Control**
