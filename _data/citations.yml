@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-06'
+  last_updated: '2026-04-08'
 papers:
   9KSz3NwAAAAJ:9yKSN-GCB0IC:
-    citations: 4
+    citations: 5
     title: The noncommutative Coulomb potential
     year: '2021'
   9KSz3NwAAAAJ:Tyk-4Ss8FVUC:
@@ -30,7 +30,7 @@ papers:
     title: Analysis of Sun-acquisition Magnetic Attitude Control for Nanosatellite Using a Hardware-in-the-loop Satellite Simulator
     year: '2022'
   9KSz3NwAAAAJ:d1gkVwhDpl0C:
-    citations: 0
+    citations: 1
     title: "Exact Noncommutative Two\u2010Dimensional Hydrogen Atom"
     year: '2021'
   9KSz3NwAAAAJ:eQOLeE2rZwMC:
@@ -43,7 +43,7 @@ papers:
     year: '2022'
   9KSz3NwAAAAJ:ufrVoPGSRksC:
     citations: 0
-    title: Controle baseado em dados para sistemas lineares sujeitos a retardo no tempo na entrada
+    title: Controle Baseado em Dados para Sistemas Lineares Sujeitos a Retardo no Tempo na Entrada Authors
     year: '2025'
   9KSz3NwAAAAJ:zYLM7Y9cAGgC:
     citations: 0
