@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-08'
+  last_updated: '2026-05-20'
 papers:
   9KSz3NwAAAAJ:9yKSN-GCB0IC:
     citations: 5
@@ -29,6 +29,10 @@ papers:
     citations: 0
     title: Analysis of Sun-acquisition Magnetic Attitude Control for Nanosatellite Using a Hardware-in-the-loop Satellite Simulator
     year: '2022'
+  9KSz3NwAAAAJ:_FxGoFyzp5QC:
+    citations: 0
+    title: AlfaCrux Nanosatellite Attitude Motion and Residual Magnetic Dipole Estimation Using In-Flight Magnetometer Measurements
+    year: '2026'
   9KSz3NwAAAAJ:d1gkVwhDpl0C:
     citations: 1
     title: "Exact Noncommutative Two\u2010Dimensional Hydrogen Atom"
@@ -43,7 +47,7 @@ papers:
     year: '2022'
   9KSz3NwAAAAJ:ufrVoPGSRksC:
     citations: 0
-    title: Controle Baseado em Dados para Sistemas Lineares Sujeitos a Retardo no Tempo na Entrada Authors
+    title: Controle Baseado em Dados para Sistemas Lineares Sujeitos a Retardo no Tempo na Entrada
     year: '2025'
   9KSz3NwAAAAJ:zYLM7Y9cAGgC:
     citations: 0
