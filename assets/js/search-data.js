@@ -35,6 +35,9 @@ ninja.data = [{
           section: "News",},{id: "news-come-take-a-look-at-our-most-recent-contribution-toward-safe-data-driven-control-with-practical-guarantees-input-saturated-control-of-time-delay-systems-a-data-driven-approach-published-in-the-international-journal-of-systems-science",
           title: 'Come take a look at our most recent contribution toward safe data-driven control...',
           description: "",
+          section: "News",},{id: "news-i-am-very-excited-to-share-this-recent-publication-and-its-contributions-to-data-driven-methods-for-nanosatellite-missions-alfacrux-nanosatellite-attitude-motion-and-residual-magnetic-dipole-estimation-using-in-flight-magnetometer-measurements-published-in-advances-in-space-research-this-work-is-associated-with-the-alfacrux-cubesat-from-the-university-of-brasilia-and-is-a-collaboration-between-the-lodestar-laboratory-and-the-keldysh-institute-of-applied-mathematics-of-the-russian-academy-of-sciences",
+          title: 'I am very excited to share this recent publication and its contributions to...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
