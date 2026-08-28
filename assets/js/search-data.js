@@ -38,6 +38,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-very-excited-to-share-this-recent-publication-and-its-contributions-to-data-driven-methods-for-nanosatellite-missions-alfacrux-nanosatellite-attitude-motion-and-residual-magnetic-dipole-estimation-using-in-flight-magnetometer-measurements-published-in-advances-in-space-research-this-work-is-associated-with-the-alfacrux-cubesat-from-the-university-of-brasilia-and-is-a-collaboration-between-the-lodestar-laboratory-and-the-keldysh-institute-of-applied-mathematics-of-the-russian-academy-of-sciences",
           title: 'I am very excited to share this recent publication and its contributions to...',
           description: "",
+          section: "News",},{id: "news-very-excited-to-share-that-our-work-blind-in-a-changing-neighborhood-data-driven-distributed-output-feedback-consensus-protocol-for-multi-agent-systems-under-switching-topology-has-been-accepted-for-publishing-in-the-ieee-internet-of-things-journal-this-paper-presents-a-unique-contribution-towards-data-driven-control-techniques-applied-to-the-problem-of-leaderless-and-leader-following-consensus-under-unreliable-networks-and-only-partial-state-information-by-considering-a-polytopic-representation-of-the-graph-laplacian-spectrum-we-guarantee-a-reduction-in-design-complexity-along-with-resilience-against-topology-switching",
+          title: 'Very excited to share that our work “Blind in a Changing Neighborhood: Data-Driven...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
