@@ -27,6 +27,7 @@ I have served as an *ad-hoc* peer reviewer for the following journals and confer
 - **IEEE Transactions on Fuzzy Systems**
 - **IEEE Transactions on Automatic Control**
 - **IEEE Transactions on Cybernetics**
+- **International Journal of Robust and Nonlinear Control**
 - **Fuzzy Sets and Systems** 
 - **Journal of Control, Automation and Electrical Systems (JCAE)**
 - **American Control Conference (ACC)**
