@@ -42,7 +42,7 @@ ninja.data = [{
           title: 'Very excited to share that our work Blind in a Changing Neighborhood: Data-Driven...',
           description: "",
           section: "News",},{id: "news-i-m-delighted-to-share-our-work-distributed-static-output-feedback-approach-for-local-consensus-of-takagi-sugeno-fuzzy-multi-agent-systems-which-is-my-first-paper-published-in-the-prestigious-ieee-transactions-on-fuzzy-systems-this-paper-presents-a-first-of-its-kind-solution-to-the-problem-of-designing-distributed-static-output-feedback-consensus-protocols-for-nonlinear-systems-providing-local-convergence-guarantees-and-also-a-systematic-framework-for-the-estimation-of-the-region-of-attraction-in-terms-of-the-initial-consensus-error",
-          title: 'I’m delighted to share our work “Distributed static output-feedback approach for local consensus...',
+          title: 'I’m delighted to share our work Distributed static output-feedback approach for local consensus...',
           description: "",
           section: "News",},{id: "news-happy-to-share-our-work-data-driven-static-output-feedback-control-subject-to-measurement-noise-and-process-disturbance-was-published-in-the-ieee-transactions-on-automatic-control-this-paper-provides-novel-conditions-for-the-data-driven-synthesis-of-static-output-feedback-controllers-based-on-the-matrix-s-lemma-considering-not-only-disturbances-but-also-measurement-noise-affecting-the-data-collection",
           title: 'Happy to share our work “Data-driven static output feedback control subject to measurement...',
