@@ -45,7 +45,7 @@ ninja.data = [{
           title: 'I’m delighted to share our work Distributed static output-feedback approach for local consensus...',
           description: "",
           section: "News",},{id: "news-happy-to-share-our-work-data-driven-static-output-feedback-control-subject-to-measurement-noise-and-process-disturbance-was-published-in-the-ieee-transactions-on-automatic-control-this-paper-provides-novel-conditions-for-the-data-driven-synthesis-of-static-output-feedback-controllers-based-on-the-matrix-s-lemma-considering-not-only-disturbances-but-also-measurement-noise-affecting-the-data-collection",
-          title: 'Happy to share our work “Data-driven static output feedback control subject to measurement...',
+          title: 'Happy to share our work Data-driven static output feedback control subject to measurement...',
           description: "",
           section: "News",},{
         id: 'social-cv',
