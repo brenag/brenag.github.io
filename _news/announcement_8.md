@@ -5,6 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Happy to share our work "Data-driven static output feedback control subject to measurement noise and process disturbance" was published in the IEEE Transactions on Automatic Control! This paper provides novel conditions for the data-driven synthesis of static output-feedback controllers based on the Matrix S-Lemma, considering not only disturbances but also measurement noise affecting the data collection. 
-
-
+Happy to share our work <a href="https://ieeexplore.ieee.org/abstract/document/11780556">Data-driven static output feedback control subject to measurement noise and process disturbance</a> was published in the IEEE Transactions on Automatic Control! This paper provides novel conditions for the data-driven synthesis of static output-feedback controllers based on the Matrix S-Lemma, considering not only disturbances but also measurement noise affecting the data collection. 
